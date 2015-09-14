@@ -44,6 +44,7 @@ Calling convert() requires an options object, which includes the following defin
 
 ```` json
 {
+	"extension" : "Extension of output file, pdf is default",
 	"html" : "Path to HTML file",
 	"css" : "Path to additional CSS file",
 	"js" : "Path to additional JavaScript file",
