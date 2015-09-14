@@ -1,5 +1,5 @@
 {
-  "name": "phantom-html2pdf",
+  "name": "phantom-html2whatever",
   "description": "Simple and lightweight HTML to PDF conversion using Node and PhantomJS",
   "contributors": [
     {
