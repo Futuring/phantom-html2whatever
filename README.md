@@ -5,7 +5,7 @@ Simple and lightweight HTML to whatever conversion using Node and PhantomJS.
 ## Installation
 
 ````
-npm install phantom-html2pdf
+npm install phantom-html2whatever
 ````
 
 ## Dependencies
@@ -20,9 +20,9 @@ npm install phantom-html2pdf
 The API exposes a single function 'convert'. Using this function, you can input a multitude of settings, which are further specified below:
 
 ```` javascript
-var pdf = require('phantom-html2pdf');
+var h2w = require('phantom-html2whatever');
 
-pdf.convert(options, function(result) {
+h2w.convert(options, function(result) {
 
 	/* Using a buffer and callback */
 	result.toBuffer(function(returnedBuffer) {});
