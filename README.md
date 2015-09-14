@@ -1,6 +1,6 @@
-# phantom-html2pdf for NodeJS
+# phantom-html2whatever for NodeJS
 
-Simple and lightweight HTML to text conversion using Node and PhantomJS.
+Simple and lightweight HTML to whatever conversion using Node and PhantomJS.
 
 ## Installation
 
