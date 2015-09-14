@@ -8,9 +8,12 @@
     {
       "name": "Evgenij Terehov",
       "email": "opensource@terehov.de"
+    },
+    {
+      "name": "Jean Lucas de Carvalho"
     }
   ],
-  "version": "1.0.2",
+  "version": "1.0.0",
   "dependencies": {
     "phantomjs": "latest",
     "async": "latest",
@@ -42,8 +45,8 @@
   "homepage": "https://github.com/bauhausjs/html2pdf",
   "maintainers": [
     {
-      "name": "eterehov",
-      "email": "opensource@terehov.de"
+      "name": "jlcarvalho",
+      "email": "oi@jeanlucas.com.br"
     }
   ]
 }
