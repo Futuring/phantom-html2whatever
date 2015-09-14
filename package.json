@@ -30,7 +30,7 @@
     "converter",
     "bauhaus"
   ],
-  "main": "./lib/phantom-html2pdf",
+  "main": "./lib/phantom-html2whatever",
   "bin": {
     "phantom-html2whatever": "./bin/phantom-html2whatever"
   },
