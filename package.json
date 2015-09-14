@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bauhausjs/phantom-html2pdf.git"
+    "url": "https://github.com/Futuring/phantom-html2whatever.git"
   },
   "keywords": [
     "pdf",
@@ -32,7 +32,7 @@
   ],
   "main": "./lib/phantom-html2pdf",
   "bin": {
-    "phantom-html2pdf": "./bin/phantom-html2pdf"
+    "phantom-html2whatever": "./bin/phantom-html2whatever"
   },
   "devDependencies": {},
   "optionalDependencies": {},
@@ -40,9 +40,9 @@
     "node": "*"
   },
   "bugs": {
-    "url": "https://github.com/bauhausjs/html2pdf/issues"
+    "url": "https://github.com/Futuring/phantom-html2whatever/issues"
   },
-  "homepage": "https://github.com/bauhausjs/html2pdf",
+  "homepage": "https://github.com/Futuring/phantom-html2whatever",
   "maintainers": [
     {
       "name": "jlcarvalho",
