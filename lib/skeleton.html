@@ -3,8 +3,16 @@
 <head>
 	<meta charset="utf-8" />
 	<title></title>
+	<script type="text/javascript">
+      window.onload = function () {
+          evt = document.createEvent('CustomEvent');
+          evt.initEvent('pdfTrigger', true, false);
+
+          document.dispatchEvent(evt);
+      };
+  </script>
 </head>
 <body>
- 
+
 </body>
 </html>
