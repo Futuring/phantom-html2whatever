@@ -13,7 +13,7 @@
       "name": "Jean Lucas de Carvalho"
     }
   ],
-  "version": "1.0.5",
+  "version": "1.0.6",
   "dependencies": {
     "phantomjs": "latest",
     "async": "latest",
