@@ -15,10 +15,11 @@
   ],
   "version": "1.0.8",
   "dependencies": {
-    "phantomjs": "latest",
     "async": "latest",
-    "tmp": "latest",
-    "debug": "latest"
+    "debug": "latest",
+    "mkdirp": "^0.5.1",
+    "phantomjs": "latest",
+    "tmp": "latest"
   },
   "repository": {
     "type": "git",
